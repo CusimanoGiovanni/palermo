@@ -1,7 +1,7 @@
 # Site settings
 # title: "Acr Ev"
 # description: "nome evento completo"
-url: "http://dariozar.github.io/palermo" # the base hostname & protocol for your site
+url: "https://dariozar.github.io/palermo" # the base hostname & protocol for your site
 destination: ../site/
 locale: "it"
 
