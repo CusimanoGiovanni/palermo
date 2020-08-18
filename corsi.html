@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div id="index-banner">
+	<div class="row">
+	  <div class="col s8 offset-s2">
+		{% for c in site.data.corsi %}
+			<div class="col s6">
+				<a href="{{site.url}}/corsi/{{c.title}}" class="card horizontal">
+					<div class="card-image">
+						<img src="{{ site.url }}/{{ c.locandina.url }}" alt="{{ c.locandina.alt }}">
+					</div>
+					<div class="card-stacked">
+						<div class="card-content">
+							<p style="color: black">{{ c.incipit }}</p>
+						</div>
+					</div>
+				</a>
+			</div>
+		{% endfor %}
+	  </div>
+	</div>
+  </div>
+
+{% include links.html %}

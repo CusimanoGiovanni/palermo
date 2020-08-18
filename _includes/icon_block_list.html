@@ -1,4 +1,13 @@
-<div class="row">
+<ul class="collection" style="border: none; margin: 0;">
+	{% for item in include.icons %}
+		<li class="collection-item avatar" style="border: none;">
+			<i class="material-icons circle">{{ item.icon }}</i>
+			<span class="title">{{ item.name }}</span>
+			<p>{{ item.text }}</p>
+		</li>
+	{% endfor %}
+</ul>
+<!--<div class="row">
 	{% for item in include.icons %}
 		{% assign len = include.icons.size %}
 		{% assign len1 = len|minus:1 %}
@@ -72,4 +81,4 @@
                         <div class="row">
                 {% endif %}
 	{% endfor %}
-</div>
+</div>-->
