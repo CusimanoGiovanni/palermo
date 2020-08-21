@@ -11,9 +11,9 @@
   document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.sidenav');
     var instances = M.Sidenav.init(elems, {});
+    var elems = document.querySelectorAll('.carousel');
+    var instances = M.Carousel.init(elems, {full_width: true, duration: 300, indicators: true});
   });
-  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
-  //$('.collapsible').collapsible();
 </script>
 <script>
   //$(document).ready(function(){
