@@ -1,5 +1,6 @@
-- title: Corso1
-  locandina: 
-         url: img/eventi/locandinaevento.png
-         alt: Locandina Evento
-  incipit: "Breve incipit del corso</br> "
+- title: TeleLateX
+  locandina:
+         url: img/eventi/Locandina_TeleLateX.jpeg
+         alt: TeleLateX
+  descrizione: "Il comitato locale AISF di Palermo ha organizzato un breve corso di Latex, via telematica, che partirà la settimana prossima sulla piattaforma Microsoft Teams." 
+  link: telelatex

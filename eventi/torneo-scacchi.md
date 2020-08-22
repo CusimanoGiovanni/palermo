@@ -20,5 +20,8 @@ social:
           url: "url post facebook"
         - name: "Teams"
           url: "url teams"
+# slides:
+#   - url: "img/due-pomeriggi/fototua.png"
+#   - url: "link immagine 2"
 credits: "Eventuali ringraziamenti"
 ---
