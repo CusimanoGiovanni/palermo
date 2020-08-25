@@ -3,7 +3,7 @@ layout: corso_evento
 permalink: /eventi/telelatex
 title: TeleLateX
 locandina: 
-           url: img/eventi/Locandina_TeleLatex.jpeg
+           url: img/eventi/Locandina_TeleLateX.jpeg
            alt: TeleLateX
 descrizione: "Il comitato locale AISF di Palermo ha organizzato un breve corso di Latex, via telematica, che partirà la settimana prossima sulla piattaforma Microsoft Teams."
 icon_block_list:
