@@ -2,18 +2,18 @@
 layout: corso_evento
 
 title: AstroAISF
-date: 2020-11-10
+date: 2020-09-25
 locandina: /img/eventi/astroAISF.jpeg
 icon_block_list:
     - name: "Dove"
-      text: "Via Archirafi, 36"
+      text: "Borgo Schirò (PA) - svincolo San Cipirello"
       icon: room
     - name: "Quando"
-      text: "08/05/2019 - 15:30"
+      text: "25/09/2020 - partenza da Palermo alle 18:00"
       icon: schedule
 social:
     - name: "Instagram"
-      url: "https://www.instagram.com/p/Bw_i3c7H3ko/"
+      url: ""
     - name: "Facebook"
       url: "url post facebook"
     - name: "Teams"
