@@ -1,9 +1,9 @@
 ---
 layout: corso_evento
-permalink: /eventi/torneo-scacchi
+
 title: Torneo di Scacchi
 locandina: 
-           url: img/eventi/Locandina_TorneoScacchi.png
+           url: /img/eventi/Locandina_TorneoScacchi.png
            alt: Torneo di Scacchi
 descrizione: "Breve incipit dell'evento"
 icon_block_list:
