@@ -6,7 +6,7 @@ date: 2019-05-27
 locandina: /img/eventi/tre-pomeriggi.jpeg
 icon_block_list:
   - name: "Dove"
-    text: "Via Archirafi, 36"
+    text: "Aula B - Via Archirafi, 36"
     icon: room
   - name: "Quando"
     text: "08/05/2019 - 15:30"
