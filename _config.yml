@@ -21,6 +21,9 @@ collections:
   eventi:
     output: true
     permalink: /:collection/:name/
+  corsi:
+    output: true
+    permalink: /:collection/:name/
 
 plugins:
  - jekyll-redirect-from
