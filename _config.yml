@@ -24,6 +24,9 @@ collections:
   corsi:
     output: true
     permalink: /:collection/:name/
+  chisiamo:
+    output: true
+    permalink: /:collection/:name/
 
 plugins:
  - jekyll-redirect-from
